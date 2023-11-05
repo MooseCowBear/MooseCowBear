@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Alisa 👋
 
 <!--
 **MooseCowBear/MooseCowBear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on taking my Ruby on Rails and React skills to the next level... and building an Arduino controlled robot ball that responds to my dog's barks. 
+- 🌱 Next up on my learning docket: Typescript. 
